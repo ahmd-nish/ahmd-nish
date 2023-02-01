@@ -2,7 +2,8 @@
 
 
 <div align="center">
- <img align="right" alt="Coding" width="2400" src="https://i.ibb.co/qsMdN8s/Blue-International-Programmers-Day-Modern-Instagram-Story.gif">
+ <img align="right" alt="Coding" width="2400" src="https://i.postimg.cc/SRSZVFFX/Blue-International-Programmers-Day-Modern-Instagram-Story-3.gif">
+
 </div>  
   
 
