@@ -128,7 +128,23 @@
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file.
+
+
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@n-ahamed36/0" style="display: inline-block; width: 300px; background: black;">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@n-ahamed36/0" alt="Recent Article 0" style="width: 100%;">
+</a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@n-ahamed36/1" style="display: inline-block; width: 300px; background: black;">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@n-ahamed36/1" alt="Recent Article 0" style="width: 100%;">
+</a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@n-ahamed36/2" style="display: inline-block; width: 300px; background: black;">
+  <img src="https://github-readme-medium-recent-article.vercel.app/medium/@n-ahamed36/2" alt="Recent Article 0" style="width: 100%;">
+</a>
+
+
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
