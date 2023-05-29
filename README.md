@@ -119,8 +119,8 @@
 
 ## Github Stats  
 
-![Nishad's GitHub stats](https://github-readme-stats.vercel.app/api?username=nish-ahmd-it&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nish-ahmd-it&theme=cobalt)](https://git.io/streak-stats)
+![Nishad's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmd-nish&show_icons=true&theme=radical)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ahmd-nish&theme=cobalt)](https://git.io/streak-stats)
 
 
 <br/>  
