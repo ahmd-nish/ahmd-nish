@@ -10,7 +10,7 @@
 ### <div align="center">I'm Nishad, a Machine Learning Engineer in making, full-time full-stack freelance developer 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🌱 I’m currently learning Computer Vision and MLOps   
+- 🌱 I’m currently learning GEN AI, LLM Computer Vision and MLOps   
   
 
 - ❓ Ask me about anything related to MERN stack and Machine Learning  
